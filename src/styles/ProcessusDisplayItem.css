@@ -1,0 +1,139 @@
+.processusDisplayItem{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    align-items: center;
+    border: 5px double antiquewhite;
+    padding: 1px;
+    margin: auto;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+    color: antiquewhite;
+    background-color: #1c1b29;
+}
+
+.processusDisplayTitle{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 90%;
+    height: 200px;
+    align-items: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border: 5px double antiquewhite;
+    margin-top: 60px;
+}
+
+
+.fp{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.fpt{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.table1{
+    width: 90%;
+    height: auto;
+    border: 5px double antiquewhite;
+    margin-top: 50px ;
+    padding: 10px;
+}
+
+.table1 th,td{
+    border: 2px solid antiquewhite;
+    padding: 10px;
+    margin: 20px;
+    vertical-align:middle; 
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.table1 th{
+    font-size: 2rem;
+}
+
+.processusFinalite{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: auto;
+    width: 90%;
+    border: 5px double antiquewhite;
+    margin-top: 50px ;
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.interface{
+    width: 90%;
+    margin-top: 70px;
+}
+
+.interface h1{
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    border: 5px double antiquewhite;
+}
+
+.amontAval{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.amont{
+    border: 2px solid antiquewhite;
+    padding: 10px;
+    margin: 20px;
+    vertical-align: top;
+    font-size: 0.7rem;
+    width:50%
+}
+.aval{
+    border: 2px solid antiquewhite;
+    padding: 10px;
+    margin: 20px;
+    vertical-align: top;
+    font-size: 0.7rem;
+    width:50%
+}
+
+.activites{
+    width: 100%;
+    border: 5px double antiquewhite;
+    padding: 20px 0 20px 40px; 
+}
+
+li{
+    font-size: 1.5rem;
+}
+
+
+.amont ul{
+    padding-left: 20px;
+}
+
+.aval ul{
+    padding-left: 20px;
+}
+
+
+.indicateurtd{
+    text-align: left;
+}
+
+
